@@ -1,0 +1,19 @@
+{
+    "name": "gustavo-marini/linked-list-php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Secco2112\\LinkedList\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Marini",
+            "email": "gustavo@usesimio.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.4",
+        "phpunit/phpunit": "^9"
+    }
+}
